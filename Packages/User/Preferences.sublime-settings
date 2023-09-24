@@ -1,0 +1,25 @@
+{
+	"font_size": 15,
+	"show_panel_on_build": true,
+	"theme": "Default Dark.sublime-theme",
+	"remember_open_files": false,
+	"hot_exit": false,
+	"font_options": ["bold"],
+	"font_face": "Cascadia Mono",
+	"color_scheme": "Breakers.sublime-color-scheme",
+	"word_wrap": true,
+	"wrap_width": 80,
+	"rulers": [80, "solid"],
+	"ruler_style": "stippled",
+	"always_show_minimap_viewport": true,
+	"draw_minimap_border": true,
+	"indent_to_bracket": true,
+
+	
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+
+	"default_dir": "D:/personal_projects/programming/ccpp",
+}

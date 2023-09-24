@@ -1,0 +1,27 @@
+{
+	"shell_cmd": "clang++ \"${file}\"",
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "${file_path}",
+	"selector": "source.c++, source.cpp, source.c",
+
+	"variants":
+	[
+		{
+			"name": "Windows(Run)",
+			"target": "terminus_exec",
+			"cancel": "terminus_cancel_build",
+			"working_dir": "${file_path}",
+			"shell_cmd": "clang++ \"${file}\" -o \"${file_path}/${file_base_name}.exe\" && \"${file_path}/${file_base_name}\""
+		},
+
+		{
+			"name": "Windows(DLLBuild)",
+			"shell_cmd": "clang++ -DWINDOWS_PLATFORM -DBUILD_MY_DLL -shared \"${file}\" -o \"${file_path}/${file_base_name}.dll" 
+		},
+
+		{
+			"name": "Window(LibLinking+Run)",
+			"shell_cmd": "clang++ -DWINDOWS_PLATFORM \"${file}\" -o \"${file_path}/${file_base_name}.exe\" -l\"*.lib\" && \"${file_path}/${file_base_name}\""
+		}
+	]
+}
