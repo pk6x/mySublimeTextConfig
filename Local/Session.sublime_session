@@ -1,6 +1,21 @@
 {
 	"file_history":
 	[
+		"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/SettingsBackup_5c303fc9/CurrentSettings.vssettings",
+		"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings-2023-09-16.vssettings",
+		"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings.vssettings",
+		"/C/Users/aamg/AppData/Roaming/Visual Studio Setup/user.json",
+		"/C/Users/aamg/AppData/Roaming/ClangPowerTools/settings.json",
+		"/D/downloads/Windows 11 Dark.dlt",
+		"/D/Program Files/GPSoftware/Directory Opus/Thio_Themes_and_Layout/Thio Themes and Layout/Instructions.txt",
+		"/C/Users/aamg/AppData/Roaming/.emacs.d/init.el",
+		"/C/Users/aamg/AppData/Roaming/.emacs.d/.emacs",
+		"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/init.el",
+		"/C/Users/aamg/AppData/Roaming/.emacs.d/Oinit.el",
+		"/C/Users/aamg/AppData/Roaming/.emacs.d/oldinit.el",
+		"/C/Users/aamg/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/aamg/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/aamg/AppData/Roaming/Sublime Text/.git/config",
 		"/C/Users/aamg/AppData/Roaming/.emacs.d/test/.git/config",
 		"/C/Users/aamg/Desktop/temp_files/t.h",
 		"/C/Users/aamg/Desktop/temp_files/t.cpp",
@@ -11,8 +26,6 @@
 		"/D/personal_projects/programming/CCPP/aamg_my_small_programs/aamg_dll_dependent_program/incl/Shared.h",
 		"/D/personal_projects/programming/CCPP/aamg_my_small_programs/aamg_dll_dependent_program/incl/Core.h",
 		"/D/personal_projects/programming/CCPP/aamg_my_small_programs/aamg_dll_dependent_program/EntryPoint.cpp",
-		"/C/Users/aamg/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
-		"/C/Users/aamg/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
 		"/D/personal_projects/programming/CCPP/small_programs/aa92_opengl/run.cpp",
 		"/D/personal_projects/programming/CCPP/small_programs/aa92_opengl/src/include/GLFW/Win32/glfw3.h",
 		"/D/personal_projects/programming/CCPP/small_programs/aa92_opengl/build.bat",
@@ -33,9 +46,9 @@
 		"/D/personal_projects/programming/CCPP/small_programs/opengl_test"
 	],
 	"last_version": 4152,
-	"last_window_id": 23,
+	"last_window_id": 24,
 	"log_indexing": false,
-	"next_update_check": 1695588392,
+	"next_update_check": 1696106792,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -43,7 +56,7 @@
 		"new_window_maximized": false,
 		"new_window_position":
 		[
-			-1101.0,
+			-1067.0,
 			751.0
 		],
 		"new_window_settings":
@@ -141,6 +154,10 @@
 				"selected_items":
 				[
 					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
 						"syn up",
 						"Sync Settings: Upload"
 					],
@@ -155,10 +172,6 @@
 					[
 						"sync uploa",
 						"Sync Settings: Upload"
-					],
-					[
-						"settings",
-						"Preferences: Settings"
 					],
 					[
 						"install",
@@ -205,6 +218,18 @@
 			},
 			"file_history":
 			[
+				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/SettingsBackup_5c303fc9/CurrentSettings.vssettings",
+				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings-2023-09-16.vssettings",
+				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings.vssettings",
+				"/C/Users/aamg/AppData/Roaming/Visual Studio Setup/user.json",
+				"/C/Users/aamg/AppData/Roaming/ClangPowerTools/settings.json",
+				"/D/downloads/Windows 11 Dark.dlt",
+				"/D/Program Files/GPSoftware/Directory Opus/Thio_Themes_and_Layout/Thio Themes and Layout/Instructions.txt",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/init.el",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/.emacs",
+				"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/init.el",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/Oinit.el",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/oldinit.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/test/.git/config",
 				"/C/Users/aamg/Desktop/temp_files/t.h",
 				"/C/Users/aamg/Desktop/temp_files/t.cpp",
@@ -323,7 +348,7 @@
 			],
 			"find":
 			{
-				"height": 44.0
+				"height": 31.0
 			},
 			"find_in_files":
 			{
@@ -337,6 +362,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"c-default-style",
+					"c-mode-common-hook"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -355,7 +382,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -377,7 +404,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -417,7 +444,7 @@
 			{
 			}
 		},
-		"new_window_width": 1095.0
+		"new_window_width": 1061.0
 	},
 	"windows":
 	[
@@ -516,6 +543,10 @@
 				"selected_items":
 				[
 					[
+						"settings",
+						"Preferences: Settings"
+					],
+					[
 						"syn up",
 						"Sync Settings: Upload"
 					],
@@ -530,10 +561,6 @@
 					[
 						"sync uploa",
 						"Sync Settings: Upload"
-					],
-					[
-						"settings",
-						"Preferences: Settings"
 					],
 					[
 						"install",
@@ -580,6 +607,18 @@
 			},
 			"file_history":
 			[
+				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/SettingsBackup_5c303fc9/CurrentSettings.vssettings",
+				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings-2023-09-16.vssettings",
+				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings.vssettings",
+				"/C/Users/aamg/AppData/Roaming/Visual Studio Setup/user.json",
+				"/C/Users/aamg/AppData/Roaming/ClangPowerTools/settings.json",
+				"/D/downloads/Windows 11 Dark.dlt",
+				"/D/Program Files/GPSoftware/Directory Opus/Thio_Themes_and_Layout/Thio Themes and Layout/Instructions.txt",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/init.el",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/.emacs",
+				"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/init.el",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/Oinit.el",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/oldinit.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/test/.git/config",
 				"/C/Users/aamg/Desktop/temp_files/t.h",
 				"/C/Users/aamg/Desktop/temp_files/t.cpp",
@@ -698,7 +737,7 @@
 			],
 			"find":
 			{
-				"height": 44.0
+				"height": 31.0
 			},
 			"find_in_files":
 			{
@@ -712,6 +751,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"c-default-style",
+					"c-mode-common-hook"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -730,7 +771,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -750,10 +791,10 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,1400,-1108,700,2,1b58e7ee85f842428193748541274429",
+			"position": "0,0,1,-1,-1,-1,-1,1400,-1074,700,2,9f81e81c1de49b4d851f5da43c384531",
 			"replace":
 			{
-				"height": 60.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -796,13 +837,13 @@
 					":history:":
 					[
 						[
-							"insert",
+							"toggle_comment",
 							{
-								"characters": "myemacsinit"
+								"block": false
 							}
 						]
 					],
-					"alternate_view": 13,
+					"alternate_view": null,
 					"last_command_line": null,
 					"last_search_pattern": null
 				}
