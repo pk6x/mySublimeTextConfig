@@ -1,6 +1,22 @@
 {
 	"file_history":
 	[
+		"/D/random_files/cppLabExp/parentClassEx.h",
+		"/D/random_files/cppLabExp/childClass.h",
+		"/D/random_files/cppLabExp/childClass.cpp",
+		"/D/random_files/cppLabExp/parentClassEx.cpp",
+		"/G/My Drive/setup_files/3D_programs_config_files/maya_config/my_customised_maya_hotkeys.txt",
+		"/D/personal_projects/programming/CCPP/aamg_test.cpp",
+		"/D/personal_projects/programming/CCPP/math_with_Jorge_Rodriguez.cpp",
+		"/D/personal_projects/programming/CCPP/tt.cpp",
+		"/G/My Drive/setup_files/programs_and_tools/directory_ops/Open windows terminal not in context menu.txt",
+		"/C/Users/aamg/AppData/Roaming/.emacs.d/init.el",
+		"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/.emacs",
+		"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/init.el",
+		"/D/personal_projects/programming/CCPP/aamg_pointers.cpp",
+		"/C/Users/aamg/Documents/WindowsPowerShell/.git/config",
+		"/D/personal_projects/programming/CCPP/aamg_learningcpp.cpp",
+		"/D/personal_projects/programming/CCPP/aamg_vectors_matrices.cpp",
 		"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/SettingsBackup_5c303fc9/CurrentSettings.vssettings",
 		"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings-2023-09-16.vssettings",
 		"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings.vssettings",
@@ -8,9 +24,7 @@
 		"/C/Users/aamg/AppData/Roaming/ClangPowerTools/settings.json",
 		"/D/downloads/Windows 11 Dark.dlt",
 		"/D/Program Files/GPSoftware/Directory Opus/Thio_Themes_and_Layout/Thio Themes and Layout/Instructions.txt",
-		"/C/Users/aamg/AppData/Roaming/.emacs.d/init.el",
 		"/C/Users/aamg/AppData/Roaming/.emacs.d/.emacs",
-		"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/init.el",
 		"/C/Users/aamg/AppData/Roaming/.emacs.d/Oinit.el",
 		"/C/Users/aamg/AppData/Roaming/.emacs.d/oldinit.el",
 		"/C/Users/aamg/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
@@ -48,7 +62,7 @@
 	"last_version": 4152,
 	"last_window_id": 24,
 	"log_indexing": false,
-	"next_update_check": 1696106792,
+	"next_update_check": 1698074767,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -56,8 +70,8 @@
 		"new_window_maximized": false,
 		"new_window_position":
 		[
-			-1067.0,
-			751.0
+			12.0,
+			750.0
 		],
 		"new_window_settings":
 		{
@@ -65,6 +79,54 @@
 			{
 				"selected_items":
 				[
+					[
+						"le",
+						"length_sqr_cp"
+					],
+					[
+						"Le",
+						"LengthSqr"
+					],
+					[
+						"len",
+						"length_sqr_cp"
+					],
+					[
+						"L",
+						"LengthSqr"
+					],
+					[
+						"vec",
+						"vecA"
+					],
+					[
+						"ptr",
+						"ptr_funcPrint"
+					],
+					[
+						"prin",
+						"printHello"
+					],
+					[
+						"pt",
+						"ptr_B"
+					],
+					[
+						"ca",
+						"carr"
+					],
+					[
+						"p",
+						"p_c"
+					],
+					[
+						"s",
+						"SumOfEelemnts"
+					],
+					[
+						"inc",
+						"increment"
+					],
 					[
 						"inpu",
 						"inputFile"
@@ -76,10 +138,6 @@
 					[
 						"lau",
 						"launcher"
-					],
-					[
-						"inc",
-						"inc\t#include \"…\""
 					],
 					[
 						"arr",
@@ -146,7 +204,7 @@
 					]
 				]
 			],
-			"build_varint": "",
+			"build_varint": "Windows(Run)",
 			"command_palette":
 			{
 				"height": 0.0,
@@ -154,15 +212,15 @@
 				"selected_items":
 				[
 					[
+						"sync up",
+						"Sync Settings: Upload"
+					],
+					[
 						"settings",
 						"Preferences: Settings"
 					],
 					[
 						"syn up",
-						"Sync Settings: Upload"
-					],
-					[
-						"sync up",
 						"Sync Settings: Upload"
 					],
 					[
@@ -218,6 +276,22 @@
 			},
 			"file_history":
 			[
+				"/D/random_files/cppLabExp/parentClassEx.h",
+				"/D/random_files/cppLabExp/childClass.h",
+				"/D/random_files/cppLabExp/childClass.cpp",
+				"/D/random_files/cppLabExp/parentClassEx.cpp",
+				"/G/My Drive/setup_files/3D_programs_config_files/maya_config/my_customised_maya_hotkeys.txt",
+				"/D/personal_projects/programming/CCPP/aamg_test.cpp",
+				"/D/personal_projects/programming/CCPP/math_with_Jorge_Rodriguez.cpp",
+				"/D/personal_projects/programming/CCPP/tt.cpp",
+				"/G/My Drive/setup_files/programs_and_tools/directory_ops/Open windows terminal not in context menu.txt",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/init.el",
+				"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/.emacs",
+				"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/init.el",
+				"/D/personal_projects/programming/CCPP/aamg_pointers.cpp",
+				"/C/Users/aamg/Documents/WindowsPowerShell/.git/config",
+				"/D/personal_projects/programming/CCPP/aamg_learningcpp.cpp",
+				"/D/personal_projects/programming/CCPP/aamg_vectors_matrices.cpp",
 				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/SettingsBackup_5c303fc9/CurrentSettings.vssettings",
 				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings-2023-09-16.vssettings",
 				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings.vssettings",
@@ -225,9 +299,7 @@
 				"/C/Users/aamg/AppData/Roaming/ClangPowerTools/settings.json",
 				"/D/downloads/Windows 11 Dark.dlt",
 				"/D/Program Files/GPSoftware/Directory Opus/Thio_Themes_and_Layout/Thio Themes and Layout/Instructions.txt",
-				"/C/Users/aamg/AppData/Roaming/.emacs.d/init.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/.emacs",
-				"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/init.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/Oinit.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/oldinit.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/test/.git/config",
@@ -329,22 +401,9 @@
 				"/D/projects/gamedev/three60engine/three60engine/.gitignore",
 				"/D/projects/programming/c_cpp/entry_point.h",
 				"/D/projects/programming/c_cpp/application.h",
-				"/G/My Drive/setup_files/3D_programs_config_files/maya_config/my_customised_maya_hotkeys.txt",
 				"/C/Program Files/Common Files/Autodesk Shared/Modules/maya/2023/Ornatrix.mod",
 				"/D/Program Files/Autodesk/ApplicationPlugins/Ornatrix_Maya_win642022_3_3.2.2.27791/Module/OrnatrixMaya2023.mod",
-				"/D/Program Files/Autodesk/ApplicationPlugins/Arnold/maya2023/mtoa.mod",
-				"/D/move_later/Maya plugins/Ephere Ornatrix v3.2.2.27791 for Maya/Ornatrix_Maya_win642022_3_3.2.2.27791/Module/OrnatrixMaya2022.mod",
-				"/D/Program Files/Autodesk/Maya 2023/modules/zootoolspro.mod",
-				"/D/Program Files/Autodesk/Maya 2023/modules/xgen.mod",
-				"/D/Program Files/Autodesk/Maya 2023/modules/fbx.mod",
-				"/D/Program Files/Autodesk/Maya 2023/modules/ATF.mod",
-				"/C/Users/aamg/.sync_settings/sync.json",
-				"/C/Users/aamg/Desktop/temp_files/pass_by_address.cpp",
-				"/C/Users/aamg/Desktop/TempF/hellow.cpp",
-				"/C/Users/aamg/Desktop/hellow.cpp",
-				"/G/My Drive/setup_files/A_windows/wt_configuration/settings.json",
-				"/C/Program Files/WindowsApps/Microsoft.WindowsTerminal_1.16.10261.0_x64__8wekyb3d8bbwe/defaults.json",
-				"/C/Users/aamg/AppData/Roaming/Sublime Text/Packages/User/SyncSettings.sublime-settings"
+				"/D/Program Files/Autodesk/ApplicationPlugins/Arnold/maya2023/mtoa.mod"
 			],
 			"find":
 			{
@@ -362,6 +421,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					" ",
+					"y",
+					" (",
 					"c-default-style",
 					"c-mode-common-hook"
 				],
@@ -444,7 +506,7 @@
 			{
 			}
 		},
-		"new_window_width": 1061.0
+		"new_window_width": 1063.0
 	},
 	"windows":
 	[
@@ -453,6 +515,54 @@
 			{
 				"selected_items":
 				[
+					[
+						"le",
+						"length_sqr_cp"
+					],
+					[
+						"Le",
+						"LengthSqr"
+					],
+					[
+						"len",
+						"length_sqr_cp"
+					],
+					[
+						"L",
+						"LengthSqr"
+					],
+					[
+						"vec",
+						"vecA"
+					],
+					[
+						"ptr",
+						"ptr_funcPrint"
+					],
+					[
+						"prin",
+						"printHello"
+					],
+					[
+						"pt",
+						"ptr_B"
+					],
+					[
+						"ca",
+						"carr"
+					],
+					[
+						"p",
+						"p_c"
+					],
+					[
+						"s",
+						"SumOfEelemnts"
+					],
+					[
+						"inc",
+						"increment"
+					],
 					[
 						"inpu",
 						"inputFile"
@@ -466,16 +576,12 @@
 						"launcher"
 					],
 					[
-						"inc",
-						"inc\t#include \"…\""
-					],
-					[
 						"arr",
 						"array_snd"
 					]
 				]
 			},
-			"build_system": "",
+			"build_system": "Packages/User/C++(llvm-clang).sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -535,7 +641,7 @@
 					]
 				]
 			],
-			"build_varint": "",
+			"build_varint": "Windows(Run)",
 			"command_palette":
 			{
 				"height": 0.0,
@@ -543,15 +649,15 @@
 				"selected_items":
 				[
 					[
+						"sync up",
+						"Sync Settings: Upload"
+					],
+					[
 						"settings",
 						"Preferences: Settings"
 					],
 					[
 						"syn up",
-						"Sync Settings: Upload"
-					],
-					[
-						"sync up",
 						"Sync Settings: Upload"
 					],
 					[
@@ -607,6 +713,22 @@
 			},
 			"file_history":
 			[
+				"/D/random_files/cppLabExp/parentClassEx.h",
+				"/D/random_files/cppLabExp/childClass.h",
+				"/D/random_files/cppLabExp/childClass.cpp",
+				"/D/random_files/cppLabExp/parentClassEx.cpp",
+				"/G/My Drive/setup_files/3D_programs_config_files/maya_config/my_customised_maya_hotkeys.txt",
+				"/D/personal_projects/programming/CCPP/aamg_test.cpp",
+				"/D/personal_projects/programming/CCPP/math_with_Jorge_Rodriguez.cpp",
+				"/D/personal_projects/programming/CCPP/tt.cpp",
+				"/G/My Drive/setup_files/programs_and_tools/directory_ops/Open windows terminal not in context menu.txt",
+				"/C/Users/aamg/AppData/Roaming/.emacs.d/init.el",
+				"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/.emacs",
+				"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/init.el",
+				"/D/personal_projects/programming/CCPP/aamg_pointers.cpp",
+				"/C/Users/aamg/Documents/WindowsPowerShell/.git/config",
+				"/D/personal_projects/programming/CCPP/aamg_learningcpp.cpp",
+				"/D/personal_projects/programming/CCPP/aamg_vectors_matrices.cpp",
 				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/SettingsBackup_5c303fc9/CurrentSettings.vssettings",
 				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings-2023-09-16.vssettings",
 				"/C/Users/aamg/AppData/Local/Microsoft/VisualStudio/17.0_5c303fc9/Settings/CurrentSettings.vssettings",
@@ -614,9 +736,7 @@
 				"/C/Users/aamg/AppData/Roaming/ClangPowerTools/settings.json",
 				"/D/downloads/Windows 11 Dark.dlt",
 				"/D/Program Files/GPSoftware/Directory Opus/Thio_Themes_and_Layout/Thio Themes and Layout/Instructions.txt",
-				"/C/Users/aamg/AppData/Roaming/.emacs.d/init.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/.emacs",
-				"/G/My Drive/setup_files/programs_and_tools/emacs/emacs_config/molly_rocket/init.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/Oinit.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/oldinit.el",
 				"/C/Users/aamg/AppData/Roaming/.emacs.d/test/.git/config",
@@ -718,22 +838,9 @@
 				"/D/projects/gamedev/three60engine/three60engine/.gitignore",
 				"/D/projects/programming/c_cpp/entry_point.h",
 				"/D/projects/programming/c_cpp/application.h",
-				"/G/My Drive/setup_files/3D_programs_config_files/maya_config/my_customised_maya_hotkeys.txt",
 				"/C/Program Files/Common Files/Autodesk Shared/Modules/maya/2023/Ornatrix.mod",
 				"/D/Program Files/Autodesk/ApplicationPlugins/Ornatrix_Maya_win642022_3_3.2.2.27791/Module/OrnatrixMaya2023.mod",
-				"/D/Program Files/Autodesk/ApplicationPlugins/Arnold/maya2023/mtoa.mod",
-				"/D/move_later/Maya plugins/Ephere Ornatrix v3.2.2.27791 for Maya/Ornatrix_Maya_win642022_3_3.2.2.27791/Module/OrnatrixMaya2022.mod",
-				"/D/Program Files/Autodesk/Maya 2023/modules/zootoolspro.mod",
-				"/D/Program Files/Autodesk/Maya 2023/modules/xgen.mod",
-				"/D/Program Files/Autodesk/Maya 2023/modules/fbx.mod",
-				"/D/Program Files/Autodesk/Maya 2023/modules/ATF.mod",
-				"/C/Users/aamg/.sync_settings/sync.json",
-				"/C/Users/aamg/Desktop/temp_files/pass_by_address.cpp",
-				"/C/Users/aamg/Desktop/TempF/hellow.cpp",
-				"/C/Users/aamg/Desktop/hellow.cpp",
-				"/G/My Drive/setup_files/A_windows/wt_configuration/settings.json",
-				"/C/Program Files/WindowsApps/Microsoft.WindowsTerminal_1.16.10261.0_x64__8wekyb3d8bbwe/defaults.json",
-				"/C/Users/aamg/AppData/Roaming/Sublime Text/Packages/User/SyncSettings.sublime-settings"
+				"/D/Program Files/Autodesk/ApplicationPlugins/Arnold/maya2023/mtoa.mod"
 			],
 			"find":
 			{
@@ -751,6 +858,9 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					" ",
+					"y",
+					" (",
 					"c-default-style",
 					"c-mode-common-hook"
 				],
@@ -791,7 +901,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,1400,-1074,700,2,9f81e81c1de49b4d851f5da43c384531",
+			"position": "0,0,1,-1,-1,-1,-1,1399,4,699,1083,6abc6f83cfc1404dbf4b258d9521024d",
 			"replace":
 			{
 				"height": 58.0
@@ -830,20 +940,17 @@
 				{
 					":command:":
 					[
-						"c",
-						"<:history:>",
-						"w"
+						"d",
+						"d"
 					],
 					":history:":
 					[
 						[
-							"toggle_comment",
-							{
-								"block": false
-							}
+							"left_delete",
+							null
 						]
 					],
-					"alternate_view": null,
+					"alternate_view": 15,
 					"last_command_line": null,
 					"last_search_pattern": null
 				}
