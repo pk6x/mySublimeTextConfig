@@ -5,7 +5,7 @@
 	"remember_open_files": false,
 	"hot_exit": false,
 	"font_options": ["bold"],
-	"font_face": "Ubuntu Mono",
+	"font_face": "Cascadia Mono",
 	"color_scheme": "Breakers.sublime-color-scheme",
 	"word_wrap": true,
 	"wrap_width": 80,
